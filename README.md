@@ -1,4 +1,4 @@
-# AlphaHelix
+# Alpha Helix structural descriptors dataset
 Dataset about alpha helix descriptors
 These files contain the complete dataset of alpha helix descriptors. To read them, it's necessary to understand their format, as follow:
 length: number of amino acids residues which compound the alpha helix
